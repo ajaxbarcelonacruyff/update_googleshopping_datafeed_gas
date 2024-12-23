@@ -1,6 +1,5 @@
-:::note warn
-This article is current as of March 2021. For the latest information, please check the official website.
-::: 
+> [!NOTE]
+> This article is current as of March 2021. For the latest information, please check the official website.
 
 # Automating Google Shopping Data Feed Updates Using Google Apps Script
 
